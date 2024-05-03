@@ -6,15 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megha-pd&label=Profile%20views&color=0e75b6&style=flat" alt="megha-pd" /> </p>
 
 - 🔭 I’m currently working on **Customer Care Insight Report**
-
 - 🌱 I’m currently learning **Business Analyst**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Megha-pd/Dashboard-and-Presentations](https://github.com/Megha-pd/Dashboard-and-Presentations)
-
 - 💬 Ask me about **Power BI**
-
 - 📫 How to reach me **papasdmegha@gmail.com**
-
 - ⚡ Fun fact **"Data has a sense of humor – it loves to hide in spreadsheets." just when you need it most!**
 
 <h3 align="left">Connect with me:</h3>
