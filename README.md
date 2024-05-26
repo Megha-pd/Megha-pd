@@ -1,6 +1,6 @@
 ![Science Google Form Header](https://github.com/Megha-pd/Megha-pd/assets/167335144/0fef89bd-cb64-4513-9d3e-7524df72e9b3)
 <h1 align="center">Hi 👋, I'm Megha</h1>
-<h3 align="center">"Passionate in Data Visualization from India "</h3>
+<h3 align="center">" A passionate data visualization enthusiast from India. "</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/75ez.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megha-pd&label=Profile%20views&color=0e75b6&style=flat" alt="megha-pd" /> </p>
